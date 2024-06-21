@@ -27,9 +27,10 @@ Seja bem vindo!
 <a href="https://github.com/vmonea"><div align="center">
 
 
-</div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmonea&layout=compact&langs_count=7&theme=shadow_red&title_color=ffff&icon_color=5865F2&text_color=B4B2B2&border_color=5865F2&"/>"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api username=vmonea&show_icons=true&theme=shadow_red&&title_color=ffff&icon_color=5865F2&text_color=B4B2B2&border_color=5865F2&include_all_commits=true&count_private=true"/>
+<div>
+<a href="https://github.com/vmonea">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmonea&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vmonea&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
