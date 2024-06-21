@@ -29,7 +29,7 @@ Seja bem vindo!
 
 <div align="center">
 <a href="https://github.com/vmonea">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmonea&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmonea&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 
