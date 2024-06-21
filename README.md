@@ -1,10 +1,10 @@
 ## Olá, sou o Vitor! 🖥️⚡ 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 Seja bem vindo(a)! 
 
 Ainda no inicio neste mundo da programação, estou animado para continuar aprendendo e desenvolvendo novos projetos, utilizando de todas as ferramentas que venho estudando! 🔋🔋🔋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="250px" align="right" style="vertical-align: top;">
 
 ## Ferramentas e Tecnologias 💡🛠️
 
